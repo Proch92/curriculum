@@ -34,7 +34,7 @@ Graduated in time with 100/110.
 
 **Thesis argument:** Security of authentication systems. Gathering and analysis of a wide collection of real password.
 
-Major academic courses highlight: Computer networks, Computer architecture, Software development engineering, Parallel programming, Mobile web design.
+Major academic courses highlight: Computer networks, Computer architecture, Software development engineering, Parallel programming, High performance computing, Mobile web design.
 
 #### (2006 - 2011)
 

@@ -72,6 +72,6 @@ git, mercurial
 ## Interests
 GNU/Linux, Computer Security, Videogame Development
 
-I'm taking part in a computer security group ([CeSeNA](https://ing2.site.whatever.com)). I attended few CTFs and Wargames like RuCTF, DEFCON qualifiers, CSAW, iCTF etc. etc.
+I'm taking part in a computer security group ([CeSeNA](https://cesena.ing2.unibo.it/)). I attended few CTFs and Wargames like RuCTF, DEFCON qualifiers, CSAW, iCTF etc. etc.
 
 **Sports:** Basketball, Waterpolo, Rugby

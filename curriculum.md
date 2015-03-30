@@ -54,7 +54,7 @@ IT technical customer assistance. Internet and LAN configurations. Basic compute
 ### Programming
 Experience with different paradigms: Imperative, OOP, Functional, Logic, Constraint, Event-driven
 
-**Languages:** C, C++, C++11, Java, Java 8, C#, Python, Ruby, Javascript, PHP.
+**Languages:** C, C++, C++11, Java, Java 8, C#, Python, Ruby, Haskell, Javascript, PHP.
 
 **Technologies:** OpenMP, OpenMPI, OpenCL, CUDA, OpenGL, GL/SL.
 

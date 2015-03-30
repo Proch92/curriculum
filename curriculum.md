@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-## Personal informations
+## Personal information
 **Name:** Michele Proverbio
 
 **Nationality:** Italian
@@ -72,6 +72,6 @@ git, mercurial
 ## Interests
 GNU/Linux, Computer Security, Videogame Development
 
-I'm taking part in a computer security group ([CeSeNA](https://cesena.ing2.unibo.it/)). I attended few CTFs and Wargames like RuCTF, DEFCON qualifiers, CSAW, iCTF etc. etc.
+I'm taking part in a computer security group ([CeSeNA](https://cesena.ing2.unibo.it/)). I attended few CTFs and Wargames like RuCTF, DEFCON qualifiers, CSAW, iCTF etc.
 
 **Sports:** Basketball, Waterpolo, Rugby

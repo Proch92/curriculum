@@ -41,6 +41,11 @@ Major academic courses highlight: Computer networks, Computer architecture, Soft
 Science and Math High School at "Liceo scientifico Enrico Medi" in Senigallia
 
 ## Occupation
+#### (March 2015 - Now)
+
+System administrator at Onit Group srl. 
+Microsoft, linux and networking administration.
+
 #### (Dicember 2013 - March 2014)
 
 Teacher at "Linux Ubuntu and Trashware" courses in Ostra(December to February) and Corinaldo(February to March).
@@ -58,7 +63,7 @@ Experience with different paradigms: Imperative, OOP, Functional, Logic, Constra
 
 **Technologies:** OpenMP, OpenMPI, OpenCL, CUDA, OpenGL, GL/SL.
 
-**Web:** HTML5, CSS3, Javascript, JSP, PHP, Python, Django, Jinja2. Flash
+**Web:** HTML5, CSS3, Javascript, JSP, PHP, Python, Django, Jinja2, Flash.
 
 **Mobile:** Android, WP 8.1, basic knowledge of IOS.
 
@@ -68,6 +73,17 @@ Sublime, Eclipse, NetBeans, GNU Compilers, Microsoft Visual Studio, .NET, Mono
 git, mercurial
 
 **Workspace:** Linux, Sublime, Command Line Interface Toolbox (Compilers, REPL, Debuggers)
+
+### Sys
+Experience with Microsoft systems, Linux server administration, enterprise networking, virtualization and backup technologies.
+
+**Microsoft:** Exchange, TMG, Windows Server, WSUS.
+
+**Networking:** Cisco and HP networking, Watchguard and TMG FW, VPN.
+
+**Server:** Apache, IIS, FTP, user management and server security assesment.
+
+**Database:** MySQL, Oracle, HP Vertica.
 
 ## Interests
 GNU/Linux, Computer Security, Videogame Development

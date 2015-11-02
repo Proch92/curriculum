@@ -75,7 +75,7 @@ git, mercurial
 **Workspace:** Linux, Sublime, Command Line Interface Toolbox (Compilers, REPL, Debuggers)
 
 ### Sys
-Experience with Microsoft systems, Linux server administration, enterprise networking, virtualization and backup technologies.
+Experience with Microsoft systems, Linux server administration, cloud computing, enterprise networking, virtualization and backup technologies.
 
 **Microsoft:** Exchange, TMG, Windows Server, WSUS.
 

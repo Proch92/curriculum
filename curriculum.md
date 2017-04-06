@@ -20,11 +20,11 @@
 **Other Languages:** English (B1)
 
 ## Education
-#### (October 2014 - Now)
+#### (October 2015 - Now)
 
 ISI Computer Science and Engineer in Cesena. 
 
-Major academic courses highlight: Information systems, Business intelligence, Distributed systems, Advanced programming.
+Major academic courses highlight: DW & Business intelligence, Machine Learning, Advanced programming.
 
 #### (October 2011 - March 2015)
 
@@ -34,17 +34,17 @@ Graduated in time with 100/110.
 
 **Thesis argument:** Security of authentication systems. Gathering and analysis of a wide collection of real password.
 
-Major academic courses highlight: Computer networks, Computer architecture, Software development engineering, Parallel programming, High performance computing, Mobile web design.
+Major academic courses highlight: Computer networks, Software engineering, High performance computing, Mobile web design.
 
 #### (2006 - 2011)
 
 Science and Math High School at "Liceo scientifico Enrico Medi" in Senigallia
 
 ## Occupation
-#### (March 2015 - Now)
+#### (April 2015 - Now)
 
-System administrator at Onit Group srl. 
-Microsoft, linux and networking administration.
+Junior System administrator at Onit Group srl.
+Linux and Windows server administration. Active Directory. VMware virtualization.
 
 #### (Dicember 2013 - March 2014)
 
@@ -59,25 +59,25 @@ IT technical customer assistance. Internet and LAN configurations. Basic compute
 ### Programming
 Experience with different paradigms: Imperative, OOP, Functional, Logic, Constraint, Event-driven
 
-**Languages:** C, C++, C++11, Java, Java 8, C#, Python, Ruby, Haskell, Javascript, PHP.
+**Languages:** C, C++11, Java, Java 8, Python, Ruby, Haskell.
 
-**Technologies:** OpenMP, OpenMPI, OpenCL, CUDA, OpenGL, GL/SL.
+**Technologies:** OpenMP, OpenMPI, OpenCL, CUDA, OpenGL, GL/SL, Vulkan.
 
-**Web:** HTML5, CSS3, Javascript, JSP, PHP, Python, Django, Jinja2, Flash.
+**Web:** HTML5, CSS3, Javascript, JSP, PHP, Python, Django, Jinja2, Middleman.
 
 **Mobile:** Android, WP 8.1, basic knowledge of IOS.
 
 ### Development environment
-Sublime, Eclipse, NetBeans, GNU Compilers, Microsoft Visual Studio, .NET, Mono
+Vim, Eclipse, NetBeans, GNU Compilers, Microsoft Visual Studio, .NET, Mono
 
 git, mercurial
 
-**Workspace:** Linux, Sublime, Command Line Interface Toolbox (Compilers, REPL, Debuggers)
+**Workspace:** Linux, Vim, Command Line Interface Toolbox (Compilers, REPL, Debuggers)
 
 ### Sys
 Experience with Microsoft systems, Linux server administration, cloud computing, enterprise networking, virtualization and backup technologies.
 
-**Microsoft:** Exchange, TMG, Windows Server, WSUS.
+**Microsoft:** Exchange, TMG, Windows Server, WSUS, Active Directory.
 
 **Networking:** Cisco and HP networking, Watchguard and TMG FW, VPN.
 
@@ -86,7 +86,7 @@ Experience with Microsoft systems, Linux server administration, cloud computing,
 **Database:** MySQL, Oracle, HP Vertica.
 
 ## Interests
-GNU/Linux, Computer Security, Videogame Development
+GNU/Linux, Computer Security, Videogame Development, Artificial Intelligence
 
 I'm taking part in a computer security group ([CeSeNA](https://cesena.ing2.unibo.it/)). I attended few CTFs and Wargames like RuCTF, DEFCON qualifiers, CSAW, iCTF etc.
 

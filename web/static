@@ -1,0 +1,77 @@
+<div id="bio">
+	<h2>Bio</h2>
+	<img src="res/photo.jpg">
+	<p>
+		<b>Name:</b>
+		Michele Proverbio
+	</p>
+	<p>
+		<b>Nationality:</b>
+		Italian
+	</p>
+	<p>
+		<b>Address:</b>
+		Via Anita Garibaldi 8, Cesena (FC)
+	</p>
+	<p>
+		<b>Date of birth:</b>
+		15/11/1992
+	</p>
+</div>
+<div>
+	<h2>Spoken languges</h2>
+	<b>Mother Tongue:</b> Italian
+	<b>Other Languages:</b> English (B1)
+</div>
+<div id="edu">
+	<h2>Education</h2>
+	<div>
+		<p>2015 - Now</p>
+		<p>Master degree in Computer Science and Engineering</p>
+	</div>
+	<div>
+		<p>2011 - 2015</p>
+		<p>Bachelor's Degree in Computer Science</p>
+		<p>
+			<b>Thesis:</b>
+			Security of authentication systems. Gathering and analysis of a wide collection of real passwords
+		</p>
+	</div>
+	<div>
+		<p>2006 - 2011</p>
+		<p>Science and Math High School at "Liceo scientifico Enrico Medi" in Senigallia</p>
+	</div>
+</div>
+<div id="job">
+	<h2>Work experiences</h2>
+	<div>
+		<p>2015 - Now</p>
+		<p>System and network administrator at Onit Group</p>
+		<em>Linux sysadmin</em>
+		<em>VMware</em>
+		<em>Vertica</em>
+	</div>
+	<div>
+		<p>2013 - 2014</p>
+		<p>Teacher at "Linux Ubuntu and Trashware" courses held by Informagiovani Senigallia</p>
+	</div>
+</div>
+<div id="skill">
+	<h2>Skills and interests</h2>
+	<div>
+		<img src="tech">
+		<h3>Tech</h3>
+		Python, C, C++, Ruby, NodeJs, R<br>
+		OpenGL, Vulkan, CUDA
+	</div>
+	<div>
+		<img src="ia">
+		<h3>Artificial intelligence</h3>
+		Deep Reinforcement learning, deep convolutional networks, Tensorflow, Keras, Pytorch, Deepmind Starcraft2 playground
+	</div>
+	<div>
+		<img src="sec">
+		<h3>Cyber Security</h3>
+		Network forensics, binary reverse engineering, wargames
+	</div>
+</div>

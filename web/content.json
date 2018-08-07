@@ -135,8 +135,16 @@
 				{
 					"name": "keras",
 					"score": 0.8
+				},
+				{
+					"name": "pytorch",
+					"score": 0.8
 				}
 			]
 		}
+	},
+	"interests": {
+		"tech": ["Artificial Intelligence", "Cyber Security", "Graphics Programming"],
+		"sport": ["Basket", "Waterpolo", "Rugby"]
 	}
 }

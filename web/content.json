@@ -3,17 +3,13 @@
 		"name": "Michele",
 		"surname": "Proverbio",
 		"nationality": "Italian",
-		"birth": {
-			"date": "15/11/1992",
-			"city": "Senigallia",
-			"province": "AN",
-			"state": "Italy"
-		} ,
-		"residency": {
-			"city": "Cesena",
-			"province": "FC",
-			"state": "Italy"
-		},
+		"b_date": "15/11/1992",
+		"b_city": "Senigallia",
+		"b_province": "AN",
+		"b_state": "Italy",
+		"r_city": "Cesena",
+		"r_province": "FC",
+		"r_state": "Italy",
 		"website": "",
 		"email": "proch92@gmail.com",
 		"tel_number": "3393101652",
@@ -75,7 +71,7 @@
 			"company": "Comune di Senigallia",
 			"city": "Senigallia",
 			"state": "Italy"
-		},
+		}
 	],
 	"languages": [
 		{
